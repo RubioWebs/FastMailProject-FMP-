@@ -1,2 +1,3 @@
 # FastMailProject-FMP-
-Fast Mail Project
+(Spanish language)
+Bienvenidos a este proyecto desarrollado para e-CITHE sistema ad-hoc e-learning para CITHE S.L.
